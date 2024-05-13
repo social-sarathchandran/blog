@@ -127,7 +127,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+blog_env/
+SimpleBlog/blog/__pycache__
+SimpleBlog/blog/migrations
+SimpleBlog/users/__pycache__
+SimpleBlog/users/migrations
 # Spyder project settings
 .spyderproject
 .spyproject
